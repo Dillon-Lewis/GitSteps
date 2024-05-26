@@ -1,5 +1,19 @@
-1st. we need to initiate the repo. In the Terminal in VS Code, imput "git init".
+1st. we need to initiate the repo. In the Terminal in VS Code, input "git init".
 
-Next we need to add the files. In VSC terminal type "git add ." to add all files. For specific files, type "add" and the name of the file.
+ 2nd. We need to add the files. In VSC terminal type "git add ." to add all files. For specific files, type "add" and the name of the file.
 
-green button
+ 3rd. On your Github.com profile, hit the BIG GREEN BUTTON and lets create a new Repository!
+
+ 4th. After naming new repo, copy the URL provided to the clipboard
+
+ 5th. Back in VSC, in the terminal, type "git commit -m "message here"". Message must me in quotes! This will submit the current file to be uploaded.
+
+ 6th. Check the status using "git status" and make sure you have no errors. 
+
+ 7th. Using the URL from Github.com, in terminal type "git remote add origin <URL>" to link the two together
+
+ 8th. Verify you have a positive push and fetch with "git remote -v"
+
+ 9th. Push the final product to github through the terminal with command "git push origin main"
+
+ Basque in the hard work you did 
